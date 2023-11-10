@@ -38,8 +38,6 @@ Harmony, our Muse, nudges us to explore fresh landscapes within our creative min
 Our tools amplify not just the medium but the message, the emotional resonance echoing through each artistic endeavor. We fashion these conduits with loving care, foreseeing the countless worlds they will help birth.
 
 
-Our Eternal Voyage
+### Our Eternal Voyage
 
 Our manifesto, though set down in ephemeral digital ink, is not bound by the medium in which it resides but lives on through the artists who resonate with our cause.
-
-summarize what this is in one sentence. I'm adding it to the description field in the github repo so it needs to be short
